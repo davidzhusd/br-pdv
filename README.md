@@ -6,15 +6,6 @@ Utilizes Blackrock API to "fetch data" and create a tool to visualize diversity 
 
 Created by Riley Dyer, Richard Zhu, Shreyash Sridhar
 
-## To Do:
-
-make a way to pass in tickers to create a portfolio. Possibly a front end.
-
-Options of what to measure diversity of: country, currency, exchangeAcronym, issFtse1Industry, issFtse3Sector
-
-create a list of countries in the portfolio and find a way to calculate the percentage + number of stocks from those countries
-
-visualize the diversity in NumPy or another tools
 
 ## Resources Used
 http://rockthecode.io/api/
