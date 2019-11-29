@@ -6,6 +6,10 @@ Utilizes Blackrock API to "fetch data" and create a tool to visualize diversity 
 
 Created by Riley Dyer, Richard Zhu, Shreyash Sridhar
 
+To Use:
+Load the Gui by running vis3.py
+
+Alternate Option: Load vis_clean.ipynb in Jupyter Notebooks
 
 ## Resources Used
 http://rockthecode.io/api/
